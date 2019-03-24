@@ -1,0 +1,9 @@
+使用说明：
+ERA插件使用说明。
+【1】JF ERA battle TJ：
+本插件将战斗替换为了调教，每个技能对应不同的调教命令，请灵活使用技能设置和公共事件，可做出不同的口上效果。
+
+【2】JF ERA actorstateX：
+本插件是编号为N的角色的状态窗口，可以在编辑器中使用脚本命令SceneManager.push(Scene_Actorfst)打开。
+
+【3】其他功能大多可使用RMMV本身的功能制作。
